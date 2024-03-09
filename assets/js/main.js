@@ -3,8 +3,8 @@ const min = document.querySelector("#min");
 const sec = document.querySelector("#sec");
 
 
-var date = new Date();
 setInterval(() => {
+     var date = new Date();
      // console.log(date);
 
 
